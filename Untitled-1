@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>About my mom</title> 
+    <style>
+        #para-1 {
+            color: darkblue;
+            background-color: aqua;
+            font-family:verdana;
+            font-size:100%;
+}
+
+      #para-2 {
+            color: red;
+            background-color: black;
+            font-family:verdana;
+            font-size:100%;
+        }
+
+        #para-3 {
+            color: blueviolet;
+            background-color: white;
+            font-family:verdana;
+            font-size:100%;
+        }
+
+                #para-4 {
+            color: pinkviolet;
+            background-color: white;
+            font-family:verdana;
+            font-size:100%;
+        }
